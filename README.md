@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Adelise Framework logo" src="/docs/assets/adelisepng.jpg" height="128">
+    <img alt="Adelise Framework logo" src="/aISiaFOD_400x400.jpg" height="128">
     <h1 align="center">Adelise Agent Framework</h1>
 </p>
 
